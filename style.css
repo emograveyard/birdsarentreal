@@ -1,0 +1,19 @@
+header{
+height: 400px;
+
+text-align: center;
+padding: 50px;
+font-size: large;
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMMSvgONyXRL8ID_nPdushVswb66ETxi0olw&s);
+background-size: cover;
+}
+
+body{
+margin: 0px;
+}
+main{
+    text-align:left;
+    color:brown;
+    font-size: 30px;
+
+}
